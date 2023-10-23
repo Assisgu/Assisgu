@@ -16,7 +16,9 @@
 <img  width="41%" height="195px" src= "https://github-readme-streak-stats.herokuapp.com/?user=Assisgu&theme=chartreuse-dark&hide_border=false" />
 </div>
 
+<!-- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-oliveira-de-assis-129a30184/) 
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
