@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=30&center=true&vCenter=true&width=1000&lines=Salve,+eu+sou+o+Gustavo+Assis+;Desenvolvedor+iOS+@Apple+Developer+Academy;Graduado+em+Sistemas+para+internet+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=30&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Gustavo+24+years+old.;Mobile+developer+at+@Apple+Developer+Academy;Graduated+in+Internet+Systems.+;)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Assisgu&bg_color=000000&color=ffffff&line=afff3c&point=afff3c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
